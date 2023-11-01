@@ -1,4 +1,4 @@
 n=input()
-n.split(word)
+n.split()
 for i in n:
     print(i)
